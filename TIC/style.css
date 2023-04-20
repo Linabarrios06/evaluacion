@@ -9,3 +9,6 @@ img.bordear{
 img{
     opacity: 30%;
 }
+h2 {
+    text-decoration: line-through;
+}
