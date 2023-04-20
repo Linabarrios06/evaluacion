@@ -1,0 +1,11 @@
+html{
+    font-family: 'Rubik Pixels', cursive;
+    background: rgb(13,125,203);
+    background: linear-gradient(90deg, rgba(13,125,203,1) 0%, rgba(44,240,13,1) 35%, rgba(0,255,244,1) 100%);
+}
+img.bordear{
+    border-radius: 50% 60% 40% 10%;
+}
+img{
+    opacity: 30%;
+}
